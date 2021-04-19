@@ -9,7 +9,6 @@ Below are the results and comparison of the monthly temperatures
 Below are images of the statistical calculations of temperatures in Oahu for the months of June and December from 2010-2017
 
 ![image](https://user-images.githubusercontent.com/78067427/115168673-b99d7580-a089-11eb-9dd0-cd23c90a6544.png) 
-
 ![image](https://user-images.githubusercontent.com/78067427/115168680-c0c48380-a089-11eb-84b7-93c3f1b834d3.png)
 
 #### Weather Differences 
