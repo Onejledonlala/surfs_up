@@ -19,7 +19,7 @@ From the statistical calculations, below are differences from the weather temper
 - So far the maximum temperature in June and December is *85 and 83* degrees respectively, with standard deviation 0f *3.25 and 3.76* respectively.
 
 ### Summary
-There are major distinctions between the temperatures statistics between June and December. The results simply shows it is more warmer in June than in December, it is hot enough which is visible for people to cool off with the need of the ice cream business. The temperature climbs from the beginning of the year until September, enoough warm temperature to run the business smoothly.
-Additinal queries can be checking rainiest climate and the wind speed condiitons
-*The precipitation distinction between the long stretches of June and December to decide whether one month has more blustery climate than the other. Furthermore, the temperatures and precipitation ought to be required all year and only for a very long time. In the event that we can anticipate which month all year has the rainiest climate then it can show us when the shop ought to be shut and open all year.*
-*The wind speed should also be considered to know the blustery months the surf shop ought to be shut. Great breezes can be very unconfortable the surfers which may affect the surf shop.*
+There are major distinctions between the temperatures statistics between June and December. The results simply shows it is more warmer in June than in December, it is hot enough which is visible for people to cool off with the need of the ice cream business. The temperature climbs from the beginning of the year until September, enough warm temperature to run the business smoothly.
+#### Additinal Queries 
+- The precipitation distinction between the long stretches of June and December to decide whether one month has more blustery climate than the other. The temperatures and precipitation ought to be required all year and and not only those two months for 8years. A long stretch analysis can anticipate which months all year has the rainiest climate then it can show us when the shop ought to be shut and open all year.
+- The wind speed should also be considered to know the blustery months the surf shop ought to be shut. Great breezes can be very unconfortable for surfers which may affect the surf shop and invariably affect the icecream business.
